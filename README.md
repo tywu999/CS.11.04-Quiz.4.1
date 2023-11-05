@@ -19,7 +19,7 @@ Declare all methods as static.
     4 - divisible by 2
     5 - divisible by 5
 
-  Answer: 1 (Of all the numbers not exceeding 5, only one isn't divisible by any of 2, 3, 5)
+  Answer: 1 (Of all the numbers from 1 to 5 inclusive, there is one number that isn't divisible by any of 2, 3, 5)
 
 
 3. Write a method called **camelCaseMe**.
